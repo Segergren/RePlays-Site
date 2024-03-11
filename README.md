@@ -9,3 +9,6 @@ RePlays is a free and open-source program that automatically records detected ru
 ## No Contribution Needed Here
 
 This page is just to give you a quick tour of what the RePlays [**website**](https://replays.app/) is. Want to see how RePlays, the app, really works? Check it out in the [**RePlays Repository**](https://github.com/lulzsun/RePlays).
+
+## Screenshot
+<img src="https://github.com/Segergren/RePlays-Site/assets/58270063/2d62c48a-515f-4617-8a95-1ce09d1d02cc" style="border-radius:5px"/>
